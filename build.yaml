@@ -294,4 +294,5 @@ include:
   ### PROSPECTOR START ###
   - board: seeeduino_xiao_ble
     shield: corne_dongle prospector_adapter
+    artifact-name: prospector_adapter
   ### PROSPECTOR END ###
